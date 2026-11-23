@@ -10,7 +10,8 @@ constexpr unsigned long PREKLOP_MS = NALOGA == Naloga::RC ? 5000 : 3000;
 constexpr unsigned long VZOREC_MS = 50;
 constexpr float MERILNI_UPOR_OHM = 220.0f;
 
-unsigned long zadnjiPreklop = 0;s
+unsigned long zadnjiPreklop = 0;
+unsigned long zadnjiVzorec = 0;
 bool izhodVisok = false;
 
 void setup() {
