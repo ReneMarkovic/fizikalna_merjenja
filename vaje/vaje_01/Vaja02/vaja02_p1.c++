@@ -3,7 +3,7 @@
 constexpr int IZHOD_GPIO = 3;
 constexpr int ADC_GPIO = 2;
 constexpr unsigned int preklop_ms = 3000;
-constexpr unsigned float R = 10000.0;
+constexpr float R = 10000.0;
 
 unsigned int zadnjiPreklop = 0;
 unsigned int zadnjiVzorec = 0;
