@@ -13,3 +13,6 @@ Za vajo je predvidenih 90–120 minut. Z ESP32-C6 boste vzorčili napetost in re
 V Arduino IDE odprite `Vaja02/Vaja02.ino`. V vrstici `NALOGA` izberite `Naloga::Delilnik`, `Naloga::Tok` ali `Naloga::RC` glede na priključeno vezje. Naložite skico in odprite Serial Plotter pri 115200 baud. Pri delilniku in RC-členu sta prikazani nazivna referenca izhoda in izmerjena napetost v mV, pri merjenju toka pa tok v mA. Interval vzorčenja spremenite s konstanto `VZOREC_MS`.
 
 Oddajte skico `.ino`, projektni `README.md` in vsaj dva posnetka Serial Plotterja za delilnik in RC-člen. Vključite izračune, primerjavo z meritvami, oceno časovne konstante in razlago razlike med ločljivostjo in natančnostjo ADC. Delo zabeležite v najmanj dveh smiselnih Git commitih.
+
+
+ojoj
